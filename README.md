@@ -1,2 +1,2 @@
 # Python-GUI
-Login, signup and registration pages
+Python GUI using tkinter library
